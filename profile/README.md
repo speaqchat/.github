@@ -89,7 +89,7 @@ You must also have [Tauri and its dependencies](https://tauri.studio/v1/guides/g
 Clone the project
 
 ```bash
-  git clone https://github.com/franciscosilva00/speaq
+  git clone https://github.com/speaqchat/web
 ```
 
 Go to the project directory
